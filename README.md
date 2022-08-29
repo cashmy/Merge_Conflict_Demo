@@ -1,5 +1,6 @@
 # Merge_Conflict_Demo
 
-This is "developer B"
+This is "developer A"
 
-These are my changes.
+And I am going to simulate a merge conflict. 
+And this is Dev B's code also!!! :) 
